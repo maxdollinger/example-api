@@ -1,0 +1,14 @@
+#File types
+*.env
+*.prettierrc
+
+#Special files
+package-lock.json
+test.js
+.eslintrc.json
+
+
+#Folders
+/public/*
+/dev-data/*
+/node_modules/*
